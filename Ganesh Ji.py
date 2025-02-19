@@ -181,7 +181,7 @@ goto(0,0)
 
 
 #borderrrr
-tur.write("   @rishabh",font=("arial",10,"normal"),align="left")
+tur.write("@rishabh",font=("arial",10,"normal"),align="top")
 
 tur.color("orange")
 goto(-240,420)
